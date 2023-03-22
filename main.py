@@ -1,3 +1,4 @@
 import random
 import hash
-import colorama
+from colorama import Fore, Back
+
