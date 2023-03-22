@@ -1,3 +1,7 @@
-from PyQt5.QtCore import QtCore
-from PyQt5.QtGui import QtGui
-from PyQt5.QWidget import QtWidgets, QPushButton, QCheckBox, QProgressBar
+from hashlib import sha256
+import time
+
+m = sha256()
+
+class generate_hash(object):
+    
